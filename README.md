@@ -106,11 +106,6 @@ minikube version
 
 ## Installation rapide
 
-### 1. Cloner le dépôt
-```bash
-git clone https://github.com/votre-org/demat-platform.git
-cd demat-platform
-```
 
 ### 2. Démarrer le cluster Kubernetes
 
@@ -283,4 +278,4 @@ Cause fréquente : ressources insuffisantes — augmenter CPU/RAM de Minikube.
 ## Auteur
 
 Projet réalisé dans le cadre d'une mission en service numérique universitaire.  
-Stack : Python · FastAPI · PostgreSQL · OpenLDAP · Kubernetes · React
+Stack : Python · FastAPI · PostgreSQL · OpenLDAP · Kubernetes · Reactbin/activate
